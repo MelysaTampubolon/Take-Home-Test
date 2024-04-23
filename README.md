@@ -2,6 +2,7 @@ How To Test
 - To test websites for automation testing I use Katalon
 - In Katalon I use features Record Web 
 - To validate the correct login, we need validation with Object Spy
+- 
 How To Run
 - Open the project in Katalon
 - Open the Test Case 
